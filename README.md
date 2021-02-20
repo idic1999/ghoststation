@@ -1,0 +1,2 @@
+# ghoststation
+Just another repository 
